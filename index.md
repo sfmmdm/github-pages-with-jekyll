@@ -1,3 +1,7 @@
-# Welcome to my blog
+# 欢迎来到我的博客
+我很高兴你来到这里。我打算说一些有关这个博客的话题
 
-I'm glad you are here. I plan to talk about ...
+这个博客是由于课程需要创建的，本身没有任何用途。  
+所以我就说这些吧……
+
+再见ヾ(￣▽￣)Bye~Bye~
